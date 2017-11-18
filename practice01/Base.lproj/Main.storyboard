@@ -12,7 +12,7 @@
         <!--abc-->
         <scene sceneID="MTf-8b-X8R">
             <objects>
-                <viewController id="B74-z2-1ns" customClass="ViewController" customModule="Button_G_s" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="B74-z2-1ns" customClass="ViewController" customModule="practice01" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Dak-BR-WKh"/>
                         <viewControllerLayoutGuide type="bottom" id="3MS-ML-GuV"/>
@@ -134,23 +134,6 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ArH-G2-Xoa" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="111" y="-375"/>
-        </scene>
-        <!--View Controller-->
-        <scene sceneID="oFV-Ur-HhA">
-            <objects>
-                <viewController id="9Oh-73-QdF" sceneMemberID="viewController">
-                    <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="k5v-Ag-KPR"/>
-                        <viewControllerLayoutGuide type="bottom" id="Q7k-DZ-nN4"/>
-                    </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="Ch7-ZW-dga">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                    </view>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="icH-dt-cdw" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
         </scene>
     </scenes>
     <resources>
